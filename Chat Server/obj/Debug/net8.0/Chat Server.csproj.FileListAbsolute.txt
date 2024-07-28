@@ -1,0 +1,14 @@
+D:\Магістрат НАУ\Дипломна\Chat App\Chat Server\bin\Debug\net8.0\Chat Server.exe
+D:\Магістрат НАУ\Дипломна\Chat App\Chat Server\bin\Debug\net8.0\Chat Server.deps.json
+D:\Магістрат НАУ\Дипломна\Chat App\Chat Server\bin\Debug\net8.0\Chat Server.runtimeconfig.json
+D:\Магістрат НАУ\Дипломна\Chat App\Chat Server\bin\Debug\net8.0\Chat Server.dll
+D:\Магістрат НАУ\Дипломна\Chat App\Chat Server\bin\Debug\net8.0\Chat Server.pdb
+D:\Магістрат НАУ\Дипломна\Chat App\Chat Server\obj\Debug\net8.0\Chat Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Магістрат НАУ\Дипломна\Chat App\Chat Server\obj\Debug\net8.0\Chat Server.AssemblyInfoInputs.cache
+D:\Магістрат НАУ\Дипломна\Chat App\Chat Server\obj\Debug\net8.0\Chat Server.AssemblyInfo.cs
+D:\Магістрат НАУ\Дипломна\Chat App\Chat Server\obj\Debug\net8.0\Chat Server.csproj.CoreCompileInputs.cache
+D:\Магістрат НАУ\Дипломна\Chat App\Chat Server\obj\Debug\net8.0\Chat Server.dll
+D:\Магістрат НАУ\Дипломна\Chat App\Chat Server\obj\Debug\net8.0\refint\Chat Server.dll
+D:\Магістрат НАУ\Дипломна\Chat App\Chat Server\obj\Debug\net8.0\Chat Server.pdb
+D:\Магістрат НАУ\Дипломна\Chat App\Chat Server\obj\Debug\net8.0\Chat Server.genruntimeconfig.cache
+D:\Магістрат НАУ\Дипломна\Chat App\Chat Server\obj\Debug\net8.0\ref\Chat Server.dll
